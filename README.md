@@ -12,20 +12,21 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" />
 </p>
+
+<p>Atualmente estou focado em aprender HTML, CSS, Git e GitHub. Em breve, começarei meus estudos em JavaScript.</p>
 
 ---
 
 ### 🛠️ Projetos que já desenvolvi
 
-- 📄 [Página de Receita](https://github.com/andrey00005/pagina-receita)
+- 💼 [Página de Portfólio](https://github.com/andrey00005/desafio-pagina-portfolio)
+- 📰 [Portal de Notícias](https://github.com/andrey00005/portal-de-noticias)
 - 🗺️ [Local Turístico](https://github.com/andrey00005/Desafio-pratico-local-turistico)
 - 🧳 [Perfil de Viagens](https://github.com/andrey00005/Perfil-de-viagens)
-- 📰 [Portal de Notícias](https://github.com/andrey00005/portal-de-noticias)
-- 💼 [Página de Portfólio](https://github.com/andrey00005/desafio-pagina-portfolio)
+- 📄 [Página de Receita](https://github.com/andrey00005/pagina-receita)
 
 ---
 
@@ -41,5 +42,5 @@
 
 <p align="center">
   🌱 Sempre aprendendo, praticando e construindo.<br/>
-  ✨ Próximo passo: mergulhar em JavaScript e além.
+  ✨ Próximo passo: iniciar os estudos em JavaScript.
 </p>
