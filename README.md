@@ -24,9 +24,9 @@
 
 - 💼 [Página de Portfólio](https://github.com/andrey00005/desafio-pagina-portfolio)
 - 📰 [Portal de Notícias](https://github.com/andrey00005/portal-de-noticias)
-- 🗺️ [Local Turístico](https://github.com/andrey00005/Desafio-pratico-local-turistico)
 - 🧳 [Perfil de Viagens](https://github.com/andrey00005/Perfil-de-viagens)
-- 📄 [Página de Receita](https://github.com/andrey00005/pagina-receita)
+- 🗺️ [Local Turístico](https://github.com/andrey00005/Desafio-pratico-local-turistico)
+- 📄 [Página de Receita](https://github.com/andrey00005/projeto-pagina-de-receita)
 
 ---
 
