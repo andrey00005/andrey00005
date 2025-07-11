@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Andrey
 
-<!--
-**andrey00005/andrey00005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor em formação, estudando Full Stack na [Rocketseat](https://www.rocketseat.com.br/), com foco em construir uma base sólida e evoluir um pouco a cada dia.
 
-Here are some ideas to get you started:
+📌 Atualmente estudando:
+- HTML, CSS e JavaScript
+- Git e GitHub
+- Layouts com Flexbox e Grid
+- Princípios de responsividade
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projetos que desenvolvi até agora:
+- [Página de Receita](https://github.com/andrey00005/pagina-receita)
+- [Local Turístico](https://github.com/andrey00005/Desafio-pratico-local-turistico)
+- [Perfil de Viagens](https://github.com/andrey00005/Perfil-de-viagens)
+- [Portal de Notícias](https://github.com/andrey00005/portal-de-noticias)
+- [Página de Portfólio](https://github.com/andrey00005/desafio-pagina-portfolio)
+
+✨ Curioso por natureza, tô sempre buscando entender o “porquê” por trás de cada código.
+
+📈 Aqui no GitHub, você vai encontrar meus desafios, projetos guiados e criações autorais — tudo feito com dedicação e foco em evoluir.
+
+---
+
+**Vamos nos conectar?**  
+[LinkedIn](https://www.linkedin.com/in/andreypereira96/) | [Rocketseat](https://app.rocketseat.com.br/me/andrey-pereira-maria-03231)
+
