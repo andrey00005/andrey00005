@@ -24,8 +24,8 @@
 
 ### 🛠️ Projetos que já desenvolvi
 
-- 💰 [Conversor de Moedas](https://andrey00005.github.io/projetoConvert/)
-- 📑 [Formuário HTML](https://andrey00005.github.io/formulario-html/)
+- 💰 [Conversor de Moedas](https://github.com/andrey00005/projetoConvert)
+- 📑 [Formuário HTML](https://github.com/andrey00005/formulario-html)
 - 💼 [Página de Portfólio](https://github.com/andrey00005/desafio-pagina-portfolio)
 - 📰 [Portal de Notícias](https://github.com/andrey00005/portal-de-noticias)
 - 🧳 [Perfil de Viagens](https://github.com/andrey00005/Perfil-de-viagens)
