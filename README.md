@@ -18,7 +18,7 @@
   
 </p>
 
-<p>Atualmente estou focado em aprender HTML, CSS, Git e GitHub. Em breve, começarei meus estudos em JavaScript.</p>
+<p>Atualmente estou focado em aprender HTML, CSS, Git e JavaScript.</p>
 
 ---
 
